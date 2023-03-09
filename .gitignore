@@ -1,0 +1,4 @@
+/node_modules
+/nodule_modules/*
+*.json
+.env
